@@ -1,5 +1,5 @@
 ---
-title: "What you need to know about Programming"
+title: "Static Web Trial"
 description: "meta description"
 image: "images/post/post-2.png"
 date: 2021-01-24T18:19:25+06:00
